@@ -1,5 +1,5 @@
 {
-  "id_mapping_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZen/id_name_mapping_V7.json",
+  "id_mapping_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZenV8/id_name_mapping_V8.json",
   "backups": [
     {
       "name": "Aman Backup (Owner)",
@@ -7,14 +7,9 @@
       "mc_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZen7/Aman_V7.json"
     },
     {
-      "name": "Your Backup",
-      "description": "Your's custom settings",
+      "name": "Affan Backup (Admin - Most Recommended)",
+      "description": "Affan's official Backup",
       "mc_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/backups/ali_mc_overrides.json"
-    },
-    {
-      "name": "Pro Settings",
-      "description": "pro configuration",
-      "mc_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/backups/ahmed_mc_overrides.json"
     }
   ]
 }
