@@ -4,12 +4,12 @@
     {
       "name": "Aman Backup (Owner)",
       "description": "Aman's official Backup",
-      "mc_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZen7/Aman_V7.json"
+      "mc_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZenV8Backup/Affan_Backup_V8.json"
     },
     {
       "name": "Affan Backup (Admin - Most Recommended)",
       "description": "Affan's official Backup",
-      "mc_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/backups/ali_mc_overrides.json"
+      "mc_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZenV8Backup/Affan_Backup_V8.json"
     }
   ]
 }
