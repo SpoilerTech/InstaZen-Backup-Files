@@ -10,6 +10,11 @@
       "name": "Affan Backup (Admin - Most Recommended)",
       "description": "Affan's official Backup",
       "mc_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZenV8Backup/Affan_Backup_V8.json"
+    },
+    {
+      "name": "Aman Singh (Admin)",
+      "description": "Aman Singh's official Backup",
+      "mc_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZenV8BackupAdmin/Unknown.Main.v1.json"
     }
   ]
 }
