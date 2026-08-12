@@ -1,22 +1,25 @@
-"backups": [
-  {
-    "name": "Aman Backup (Owner)",
-    "description": "Aman's official Backup",
-    "mc_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZenV8Backup/Affan_Backup_V8.json"
-  },
-  {
-    "name": "Affan Backup (Admin - Most Recommended)",
-    "description": "Affan's official Backup",
-    "mc_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZenV8Backup/Affan_Backup_V8.json"
-  },
-  {
-    "name": "Aman Singh (Admin)",
-    "description": "Aman Singh's official Backup",
-    "mc_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZenV8BackupAdmin/Unknown.Main.v1.json"
-  },
-  {
-    "name": "Coolest Tech (YouTuber)",
-    "description": "Coolest Tech's official Backup",
-    "mc_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/raw/main/Coolest%20Tech.json"
-  }
-]
+{
+  "id_mapping_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZenV8/id_name_mapping_V8.json",
+  "backups": [
+    {
+      "name": "Aman Backup (Owner)",
+      "description": "Aman's official Backup",
+      "mc_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZenV8Backup/Affan_Backup_V8.json"
+    },
+    {
+      "name": "Affan Backup (Admin - Most Recommended)",
+      "description": "Affan's official Backup",
+      "mc_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZenV8Backup/Affan_Backup_V8.json"
+    },
+    {
+      "name": "Aman Singh (Admin)",
+      "description": "Aman Singh's official Backup",
+      "mc_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/releases/download/InstaZenV8BackupAdmin/Unknown.Main.v1.json"
+    },
+    {
+      "name": "Coolest Tech (YouTuber)",
+      "description": "Coolest Tech's official Backup",
+      "mc_url": "https://github.com/SpoilerTech/InstaZen-Backup-Files/raw/main/Coolest%20Tech.json"
+    }
+  ]
+}
